@@ -34,31 +34,6 @@ I'm a self-driven **vibecoder** who turns ideas into real, working products. I c
 
 ---
 
-## 🚀 Featured Projects
-
-> A selection of things I've built, shipped, and actually use.
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| 🔥 **Project One** | A short description of what it does and why it matters | React · Tailwind | [View →](#) |
-| 🎯 **Project Two** | A short description of what it does and why it matters | React · JS | [View →](#) |
-| 💡 **Project Three** | A short description of what it does and why it matters | React · Tailwind | [View →](#) |
-
-*Replace these with your real projects — add a demo link or screenshot for bonus points.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
----
-
 ## 💬 My Approach
 
 ```
@@ -74,14 +49,6 @@ I don't wait for perfect. I vibe, I build, I ship — and I make it better as I 
 
 ---
 
-## 📫 Let's Connect
-
-I'm always open to building something cool, collaborating on a project, or just talking shop.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
