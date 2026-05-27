@@ -1,6 +1,6 @@
 # Hey, I'm Matthew Loder 👋
 
-> *just a guy who vibes code into existence · I build things for the web and your pocket · if it looks cool, it ships*
+> *just a guy who vibes code into existence · I build things for the web and your pocket ·
 
 ---
 
