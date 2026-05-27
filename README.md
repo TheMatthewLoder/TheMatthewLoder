@@ -30,7 +30,7 @@ I'm a self-driven **vibecoder** who turns ideas into real, working products. I c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-34A853?style=for-the-badge&logo=google&logoColor=white)
 ---
 
 ## 💬 My Approach
