@@ -45,13 +45,4 @@ while (idea.isGood()) {
 // semicolons optional
 ```
 
-I don't wait for perfect. I vibe, I build, I ship — and I make it better as I go. Every project starts with a feeling and ends with something real.
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 <p align="center"><i>"if it looks cool, it ships."</i></p>
